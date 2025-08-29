@@ -35,13 +35,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
 
----
 
-### 📊 GitHub Stats
-![Sharon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharon759&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharon759&layout=compact&theme=tokyonight)
-
----
 
 > 💡 “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs
