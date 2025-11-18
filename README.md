@@ -17,8 +17,6 @@
 
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharon-mishra/)](https://www.linkedin.com/in/sharon-mishra/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-green?style=flat-square)](https://auth.geeksforgeeks.org/user/)
 
 ---
 
