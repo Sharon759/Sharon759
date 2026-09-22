@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sharon Mishra
+# 👋 Hii, I'm Sharon Mishra
 
 🎓 A curious Computer Engineering student who loves building real-world systems with code and creativity.
 
